@@ -1,16 +1,18 @@
-# bloc_rx
+# A family of stream/observable based patterns.
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+State management is a complex topic. If you feel that some of your questions haven’t been answered, or that the approach described on these pages is not viable for your use cases, you are probably right.
 
-A few resources to get you started if this is your first Flutter project:
+Learn more at the following links, many of which have been contributed by the Flutter community:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+
+- [Architect your Flutter project using BLoC pattern, by Sagar Suri](https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1)
+- [Reactive Programming - Streams - BLoC - Practical Use Cases, by Didier Boelens](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
+
+For help getting started with Flutter, view flutter 
+[List of state management approaches](https://flutter.dev/docs/development/data-and-backend/state-mgmt/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.

@@ -1,16 +1,10 @@
-# getx
+# A simplified reactive state management solution.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Complete GetX State Management, a video by Tadas Petra](https://www.youtube.com/watch?v=CNpXbeI_slw)
+- [GetX Flutter Firebase Auth Example, by Jeff McMorris](https://medium.com/@jeffmcmorris/getx-flutter-firebase-auth-example-b383c1dd1de2)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
+For help getting started with Flutter, view flutter 
+[List of state management approaches](https://flutter.dev/docs/development/data-and-backend/state-mgmt/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
